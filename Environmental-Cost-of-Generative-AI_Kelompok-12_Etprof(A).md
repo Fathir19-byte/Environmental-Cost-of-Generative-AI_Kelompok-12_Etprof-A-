@@ -93,3 +93,25 @@ Berdasarkan rumusan masalah yang telah disusun, maka tujuan penulisan makalah in
 - Untuk menganalisis penyebab meningkatnya emisi karbon serta konsumsi energi dan air akibat penggunaan teknologi AI.
 - Untuk mengkaji tanggung jawab perusahaan teknologi terhadap dampak lingkungan yang dihasilkan.
 - Untuk menilai pengembangan Generative AI berdasarkan prinsip-prinsip etika profesi, khususnya dalam aspek keberlanjutan lingkungan.
+
+# BAB II
+
+# PEMBAHASAN
+
+## 2.1 Pengertian Generative AI
+
+_Generative AI_ merupakan salah satu cabang dari kecerdasan buatan yang dirancang untuk menghasilkan konten baru berdasarkan data yang telah dipelajari sebelumnya. Teknologi ini mampu menciptakan berbagai bentuk output, seperti teks, gambar, audio, hingga kode program, dengan tingkat kemiripan yang tinggi terhadap hasil buatan manusia.
+
+Dalam perkembangannya, _Generative AI_ telah banyak digunakan dalam berbagai aplikasi, seperti chatbot, pembuatan desain visual, serta asistensi penulisan. Beberapa contoh teknologi _Generative AI_ yang banyak digunakan saat ini antara lain ChatGPT yang dikembangkan oleh OpenAI, Copilot oleh Microsoft, serta Gemini yang dikembangkan oleh Google.
+
+Secara umum, _Generative AI_ bekerja menggunakan model pembelajaran mesin berskala besar yang dilatih dengan data dalam jumlah sangat besar. Proses pelatihan ini membutuhkan sumber daya komputasi yang tinggi, seperti penggunaan _Graphics Processing Unit_ (GPU) dalam jumlah besar serta waktu pemrosesan yang relatif lama. Oleh karena itu, pengembangan teknologi ini memerlukan infrastruktur yang kompleks serta konsumsi energi yang signifikan.
+
+---
+
+## 2.2 Infrastruktur AI dan Konsumsi Energi
+
+Pengembangan dan pengoperasian _Generative AI_ tidak terlepas dari infrastruktur teknologi yang dikenal sebagai _data center_. _Data center_ merupakan fasilitas yang digunakan untuk menyimpan, mengelola, dan memproses data dalam skala besar. Dalam konteks AI, _data center_ berperan penting dalam proses pelatihan model maupun saat model tersebut digunakan oleh pengguna.
+
+_Data center_ modern terdiri dari ribuan server yang beroperasi secara terus-menerus, sehingga membutuhkan pasokan listrik dalam jumlah yang sangat besar. Selain itu, sistem pendinginan juga diperlukan untuk menjaga suhu perangkat tetap stabil. Proses pendinginan ini umumnya menggunakan air dalam jumlah besar, sehingga turut meningkatkan konsumsi sumber daya air.
+
+Seiring dengan meningkatnya penggunaan _Generative AI_, kebutuhan terhadap kapasitas _data center_ juga semakin meningkat. Hal ini berdampak langsung pada peningkatan konsumsi energi global yang sebagian besar masih berasal dari sumber energi tidak terbarukan. Kondisi tersebut berkontribusi terhadap peningkatan emisi karbon serta memperburuk dampak perubahan iklim.
