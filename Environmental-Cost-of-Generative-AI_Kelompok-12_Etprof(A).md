@@ -115,3 +115,44 @@ Pengembangan dan pengoperasian _Generative AI_ tidak terlepas dari infrastruktur
 _Data center_ modern terdiri dari ribuan server yang beroperasi secara terus-menerus, sehingga membutuhkan pasokan listrik dalam jumlah yang sangat besar. Selain itu, sistem pendinginan juga diperlukan untuk menjaga suhu perangkat tetap stabil. Proses pendinginan ini umumnya menggunakan air dalam jumlah besar, sehingga turut meningkatkan konsumsi sumber daya air.
 
 Seiring dengan meningkatnya penggunaan _Generative AI_, kebutuhan terhadap kapasitas _data center_ juga semakin meningkat. Hal ini berdampak langsung pada peningkatan konsumsi energi global yang sebagian besar masih berasal dari sumber energi tidak terbarukan. Kondisi tersebut berkontribusi terhadap peningkatan emisi karbon serta memperburuk dampak perubahan iklim.
+
+# BAB III  
+## PENUTUP  
+
+### 3.1 Kesimpulan  
+
+Perkembangan *Generative AI* telah memberikan berbagai manfaat signifikan dalam kehidupan manusia, khususnya dalam meningkatkan efisiensi kerja, mendorong inovasi, serta mempercepat transformasi digital di berbagai bidang.  
+
+Namun, di balik manfaat tersebut, terdapat dampak lingkungan yang tidak dapat diabaikan, seperti meningkatnya emisi karbon, tingginya konsumsi energi, serta penggunaan air dalam jumlah besar pada infrastruktur *data center*.  
+
+Dari sudut pandang etika profesi, kondisi ini menimbulkan dilema antara kemajuan teknologi dan tanggung jawab terhadap lingkungan. Berdasarkan analisis menggunakan pendekatan **utilitarianisme**, **deontologi**, dan **Triple Bottom Line**, dapat disimpulkan bahwa pengembangan *Generative AI* saat ini belum sepenuhnya memenuhi prinsip etika, terutama dalam aspek keberlanjutan dan tanggung jawab lingkungan.  
+
+Oleh karena itu, diperlukan kesadaran serta komitmen yang lebih kuat dari perusahaan teknologi agar inovasi yang dilakukan tidak mengorbankan kelestarian lingkungan. Keseimbangan antara aspek **profit**, **people**, dan **planet** menjadi kunci utama dalam menciptakan pengembangan teknologi yang etis dan berkelanjutan.  
+
+---
+
+### 3.2 Saran  
+
+Berdasarkan pembahasan yang telah dilakukan, berikut beberapa saran yang dapat dipertimbangkan:
+
+#### 1. Bagi Perusahaan Teknologi  
+Perusahaan diharapkan lebih bertanggung jawab dalam mengelola dampak lingkungan dengan menerapkan konsep *Green AI*, menggunakan energi terbarukan, serta meningkatkan transparansi dalam pelaporan lingkungan.  
+
+#### 2. Bagi Pemerintah  
+Pemerintah perlu menetapkan regulasi yang tegas terkait batas emisi karbon, efisiensi energi, dan penggunaan sumber daya, sehingga perkembangan teknologi tetap sejalan dengan prinsip keberlanjutan.  
+
+#### 3. Bagi Pengembang Teknologi (*Developer*)  
+Pengembang diharapkan mempertimbangkan aspek efisiensi serta dampak lingkungan dalam merancang sistem AI, sekaligus menjunjung tinggi nilai-nilai etika profesi.  
+
+#### 4. Bagi Masyarakat/Pengguna  
+Pengguna diharapkan menggunakan teknologi AI secara bijak dan tidak berlebihan, serta meningkatkan kesadaran terhadap dampak lingkungan dari penggunaan teknologi digital.  
+
+---
+
+## DAFTAR PUSTAKA  
+  
+- Microsoft. (2024). *Microsoft Environmental Sustainability Report 2024*. Microsoft Corporation.  
+- Google. (2024). *Google Environmental Report 2024*. Google LLC.  
+- Strubell, E., Ganesh, A., & McCallum, A. (2019). *Energy and Policy Considerations for Deep Learning in NLP*. Nature Climate Change, 10(1), 1–6.  
+- Hao, K. (2019). *Training a Single AI Model Can Emit as Much Carbon as Five Cars in Their Lifetimes*. MIT Technology Review.  
+- International Energy Agency. (2023). *Data Centres and Data Transmission Networks*. IEA.  
