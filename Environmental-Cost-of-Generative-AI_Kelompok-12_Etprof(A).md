@@ -116,6 +116,39 @@ _Data center_ modern terdiri dari ribuan server yang beroperasi secara terus-men
 
 Seiring dengan meningkatnya penggunaan _Generative AI_, kebutuhan terhadap kapasitas _data center_ juga semakin meningkat. Hal ini berdampak langsung pada peningkatan konsumsi energi global yang sebagian besar masih berasal dari sumber energi tidak terbarukan. Kondisi tersebut berkontribusi terhadap peningkatan emisi karbon serta memperburuk dampak perubahan iklim.
 
+## 2.5 Studi Kasus dan Upaya Mitigasi
+
+Perkembangan Generative AI yang pesat tidak terlepas dari peran perusahaan teknologi besar seperti Microsoft dan Google. Namun, peningkatan penggunaan AI juga diikuti oleh meningkatnya dampak lingkungan yang dihasilkan. Microsoft dilaporkan mengalami peningkatan emisi karbon sekitar 30% sejak berkembangnya teknologi AI, sementara Google melaporkan peningkatan emisi hingga 48% dibandingkan tahun 2019.
+
+Peningkatan ini menunjukkan bahwa kebutuhan komputasi untuk mendukung AI, termasuk penggunaan data center dalam skala besar, memberikan kontribusi langsung terhadap konsumsi energi dan emisi karbon. Hal ini menimbulkan pertanyaan kritis mengenai konsistensi perusahaan dalam menjalankan komitmen net-zero emission yang sebelumnya telah dicanangkan.
+
+Kondisi tersebut mencerminkan adanya dilema antara dorongan untuk terus berinovasi dengan tanggung jawab terhadap lingkungan. Jika tidak diimbangi dengan langkah mitigasi yang serius, maka perkembangan teknologi AI berpotensi memperburuk kondisi lingkungan secara global.
+
+Upaya Mitigasi Dampak Lingkungan:
+
+- **Penggunaan Energi Terbarukan  
+   **Perusahaan teknologi dapat beralih ke sumber energi terbarukan seperti tenaga surya dan angin untuk mengurangi emisi karbon dari operasional data center.
+- **Pengembangan Green AI  
+   **Mengembangkan model AI yang lebih efisien dalam penggunaan energi, seperti mengoptimalkan algoritma dan mengurangi kompleksitas model tanpa mengorbankan performa.
+- **Efisiensi Data Center  
+   **Meningkatkan efisiensi infrastruktur dengan menggunakan sistem pendinginan yang lebih hemat energi serta memanfaatkan teknologi ramah lingkungan.
+- **Pengelolaan Konsumsi Air  
+   **Mengurangi penggunaan air dalam proses pendinginan dan menerapkan sistem daur ulang air untuk menjaga ketersediaan sumber daya air.
+- **Transparansi dan Pelaporan  
+   **Perusahaan perlu secara terbuka melaporkan dampak lingkungan yang dihasilkan, seperti emisi karbon dan konsumsi energi, agar dapat diawasi oleh publik.
+- **Kepatuhan terhadap Regulasi  
+   **Mengikuti kebijakan dan standar pemerintah terkait lingkungan, seperti pembatasan emisi dan penggunaan energi bersih.
+
+## 2.6 Trade-off Inovasi AI dan Komitmen Net-Zero
+
+Perkembangan Generative AI yang sangat pesat membawa dilema antara inovasi teknologi dan keberlanjutan lingkungan. Di satu sisi, perusahaan teknologi seperti Microsoft dan Google terus mendorong pengembangan AI untuk meningkatkan efisiensi, produktivitas, dan keuntungan bisnis. Namun, di sisi lain, peningkatan kebutuhan komputasi untuk AI menyebabkan konsumsi energi dan emisi karbon yang semakin tinggi.
+
+Hal ini menimbulkan trade-off yang signifikan, yaitu antara upaya mempercepat inovasi teknologi dengan komitmen perusahaan untuk mencapai target net-zero emission. Data menunjukkan bahwa sejak meningkatnya penggunaan AI, emisi karbon perusahaan justru mengalami kenaikan, seperti Microsoft yang meningkat sekitar 30% dan Google hingga 48% dibandingkan baseline sebelumnya.
+
+Kondisi ini menunjukkan adanya ketidaksesuaian antara komitmen keberlanjutan yang dicanangkan perusahaan dengan praktik operasional yang terjadi di lapangan. Dalam konteks etika profesi, hal ini dapat menimbulkan pertanyaan kritis mengenai konsistensi dan tanggung jawab moral perusahaan terhadap lingkungan.
+
+Dengan demikian, pengembangan Generative AI saat ini berada pada posisi dilematis, di mana inovasi yang dihasilkan berpotensi mengorbankan aspek keberlanjutan. Oleh karena itu, diperlukan strategi yang mampu menyeimbangkan antara kemajuan teknologi dan tanggung jawab lingkungan agar kedua tujuan tersebut dapat berjalan secara beriringan.
+
 # BAB III  
 ## PENUTUP  
 
