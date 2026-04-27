@@ -1,30 +1,40 @@
-**TUGAS KELOMPOK 12**
+<div align="center">
 
-**ETIKA PROFESI**
+# ENVIRONMENTAL COST OF GENERATIVE AI
 
-**ENVIRONTMENTAL COST OF GENERATIVE AI**
+*"Untuk memenuhi tugas pada mata kuliah Etika Profesi"*
 
-**Disusun Oleh:**
+<br>
 
-Belvaria Hendriyani / 4524210078
+<img src="logo up.png" alt="Logo Universitas Pancasila" width="250">
 
-Muhammad Fathir Alfarqi / 4524210064
+<br>
+<br>
 
-Putri Wahyu Dwi Nur Fatimah / 4524210080
+**Disusun Oleh Kelompok 12:**
 
-Rakha Hafidz Fauzan / 4524210082
+| Nama Anggota | NIM |
+| :--- | :--- |
+| Belvaria Hendriyani | 4524210078 |
+| Muhammad Fathir Alfarqi | 4524210064 |
+| Putri Wahyu Dwi Nur Fatimah | 4524210080 |
+| Rakha Hafidz Fauzan | 4524210082 |
+| Michael Zefanya Sitompul | 4524210139 |
 
-Michael Zefanya Sitompul / 4524210139
+<br>
 
 **Dosen Pengampu:**
+<br>
+Adi Wahyu Pribadi, S.Si., M.Kom
 
-**Adi Wahyu Pribadi, S.Si., M.Kom**
+<br>
+<br>
 
-**PROGRAM STUDI TEKNIK INFORMATIKA**
+# PROGRAM STUDI TEKNIK INFORMATIKA
+# FAKULTAS TEKNIK UNIVERSITAS PANCASILA
+# 2026
 
-**UNIVERSITAS PANCASILA**
-
-**2026**
+</div>
 
 # DAFTAR ISI
 
