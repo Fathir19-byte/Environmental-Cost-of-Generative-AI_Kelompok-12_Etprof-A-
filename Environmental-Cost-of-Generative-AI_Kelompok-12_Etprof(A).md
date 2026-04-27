@@ -76,7 +76,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## PENDAHULUAN
 
-### 1.1 Latar Belakang
+## Latar Belakang
 
 Perkembangan teknologi kecerdasan buatan, khususnya Generative AI, telah mengalami peningkatan yang sangat pesat dalam beberapa tahun terakhir. Berbagai perusahaan teknologi besar seperti OpenAI, Microsoft, dan Google berlomba-lomba mengembangkan sistem AI canggih yang mampu menghasilkan teks, gambar, hingga kode program secara otomatis. Inovasi ini membawa banyak manfaat dalam berbagai bidang, mulai dari pendidikan, bisnis, hingga industri kreatif.
 
@@ -86,7 +86,7 @@ Beberapa laporan menunjukkan bahwa sejak meningkatnya penggunaan AI, emisi karbo
 
 Dari sudut pandang etika profesi, fenomena ini menimbulkan dilema antara dorongan untuk terus berinovasi di bidang teknologi dengan tanggung jawab moral untuk menjaga kelestarian lingkungan. Perusahaan teknologi tidak hanya dituntut untuk menghasilkan produk yang canggih dan menguntungkan, tetapi juga harus mempertimbangkan dampak jangka panjang terhadap lingkungan dan masyarakat. Oleh karena itu, penting untuk mengkaji lebih dalam mengenai biaya lingkungan dari pengembangan Generative AI serta menilai apakah praktik yang dilakukan saat ini sudah sesuai dengan prinsip-prinsip etika profesi.
 
-### 1.2 Rumusan Masalah
+## Rumusan Masalah
 
 Berdasarkan latar belakang yang telah diuraikan, maka rumusan masalah dalam makalah ini adalah sebagai berikut:
 
@@ -95,7 +95,7 @@ Berdasarkan latar belakang yang telah diuraikan, maka rumusan masalah dalam maka
 - Bagaimana tanggung jawab perusahaan teknologi terhadap dampak lingkungan yang dihasilkan dari pengembangan AI?
 - Apakah pengembangan Generative AI saat ini sudah sesuai dengan prinsip-prinsip etika profesi, khususnya dalam aspek keberlanjutan lingkungan?
 
-### 1.3 Tujuan
+## Tujuan
 
 Berdasarkan rumusan masalah yang telah disusun, maka tujuan penulisan makalah ini adalah sebagai berikut:
 
