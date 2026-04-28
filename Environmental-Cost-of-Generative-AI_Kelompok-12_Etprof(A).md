@@ -36,7 +36,15 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 </div>
 
-# DAFTAR ISI
+---
+
+<div align="center">
+
+## DAFTAR ISI
+
+</div>
+
+---
 
 1. [BAB I PENDAHULUAN](#bab-i-pendahuluan)
    - [1.1 Latar Belakang](#11-latar-belakang)
@@ -57,11 +65,15 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 4. [DAFTAR PUSTAKA](#daftar-pustaka)
 
-#
+---
 
-# BAB I
+<div align="center">
 
-## PENDAHULUAN
+## BAB I PENDAHULUAN
+
+</div>
+
+---
 
 ### 1.1 Latar Belakang
 
@@ -91,9 +103,15 @@ Berdasarkan rumusan masalah yang telah disusun, maka tujuan penulisan makalah in
 - Untuk mengkaji tanggung jawab perusahaan teknologi terhadap dampak lingkungan yang dihasilkan.
 - Untuk menilai pengembangan Generative AI berdasarkan prinsip-prinsip etika profesi, khususnya dalam aspek keberlanjutan lingkungan.
 
-# BAB II
+---
 
-## PEMBAHASAN
+<div align="center">
+
+## BAB II PEMBAHASAN
+
+</div>
+
+---
 
 ### 2.1 Pengertian Generative AI
 
@@ -103,7 +121,6 @@ Dalam perkembangannya, _Generative AI_ telah banyak digunakan dalam berbagai apl
 
 Secara umum, _Generative AI_ bekerja menggunakan model pembelajaran mesin berskala besar yang dilatih dengan data dalam jumlah sangat besar. Proses pelatihan ini membutuhkan sumber daya komputasi yang tinggi, seperti penggunaan _Graphics Processing Unit_ (GPU) dalam jumlah besar serta waktu pemrosesan yang relatif lama. Oleh karena itu, pengembangan teknologi ini memerlukan infrastruktur yang kompleks serta konsumsi energi yang signifikan.
 
----
 
 ### 2.2 Infrastruktur AI dan Konsumsi Energi
 
@@ -154,8 +171,15 @@ Kondisi ini menunjukkan adanya ketidaksesuaian antara komitmen keberlanjutan yan
 
 Dengan demikian, pengembangan Generative AI saat ini berada pada posisi dilematis, di mana inovasi yang dihasilkan berpotensi mengorbankan aspek keberlanjutan. Oleh karena itu, diperlukan strategi yang mampu menyeimbangkan antara kemajuan teknologi dan tanggung jawab lingkungan agar kedua tujuan tersebut dapat berjalan secara beriringan.
 
-# BAB III  
-## PENUTUP  
+---
+
+<div align="center">
+
+## BAB III PENUTUP
+
+</div>
+
+---
 
 ### 3.1 Kesimpulan  
 
@@ -166,8 +190,6 @@ Namun, di balik manfaat tersebut, terdapat dampak lingkungan yang tidak dapat di
 Dari sudut pandang etika profesi, kondisi ini menimbulkan dilema antara kemajuan teknologi dan tanggung jawab terhadap lingkungan. Berdasarkan analisis menggunakan pendekatan **utilitarianisme**, **deontologi**, dan **Triple Bottom Line**, dapat disimpulkan bahwa pengembangan *Generative AI* saat ini belum sepenuhnya memenuhi prinsip etika, terutama dalam aspek keberlanjutan dan tanggung jawab lingkungan.  
 
 Oleh karena itu, diperlukan kesadaran serta komitmen yang lebih kuat dari perusahaan teknologi agar inovasi yang dilakukan tidak mengorbankan kelestarian lingkungan. Keseimbangan antara aspek **profit**, **people**, dan **planet** menjadi kunci utama dalam menciptakan pengembangan teknologi yang etis dan berkelanjutan.  
-
----
 
 ### 3.2 Saran  
 
@@ -187,7 +209,13 @@ Pengguna diharapkan menggunakan teknologi AI secara bijak dan tidak berlebihan, 
 
 ---
 
-## DAFTAR PUSTAKA  
+<div align="center">
+
+## DAFTAR PUSTAKA
+
+</div>
+
+---
   
 - Microsoft. (2024). *Microsoft Environmental Sustainability Report 2024*. Microsoft Corporation.  
 - Google. (2024). *Google Environmental Report 2024*. Google LLC.  
