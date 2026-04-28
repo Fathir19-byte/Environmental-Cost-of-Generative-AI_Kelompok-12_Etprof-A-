@@ -38,37 +38,24 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 # DAFTAR ISI
 
-[DAFTAR ISI ii](#_Toc227829264)
+1. [BAB I PENDAHULUAN](#bab-i-pendahuluan)
+   - [1.1 Latar Belakang](#11-latar-belakang)
+   - [1.2 Rumusan Masalah](#12-rumusan-masalah)
+   - [1.3 Tujuan](#13-tujuan)
 
-[BAB I PENDAHULUAN 1](#_Toc227829265)
+2. [BAB II PEMBAHASAN](#bab-ii-pembahasan)
+   - [2.1 Pengertian Generative AI](#21-pengertian-generative-ai)
+   - [2.2 Infrastruktur AI dan Konsumsi Energi](#22-infrastruktur-ai-dan-konsumsi-energi)
+   - [2.3 Dampak Lingkungan Generative AI](#23-dampak-lingkungan-generative-ai)
+   - [2.4 Analisis Etika terhadap Pengembangan Generative AI](#24-analisis-etika-terhadap-pengembangan-generative-ai)
+   - [2.5 Studi Kasus dan Upaya Mitigasi](#25-studi-kasus-dan-upaya-mitigasi)
+   - [2.6 Trade-off Inovasi AI dan Komitmen Net-Zero](#26-trade-off-inovasi-ai-dan-komitmen-net-zero)
 
-[1.1 Latar Belakang 1](#_Toc227829266)
+3. [BAB III PENUTUP](#bab-iii-penutup)
+   - [3.1 Kesimpulan](#31-kesimpulan)
+   - [3.2 Saran](#32-saran)
 
-[1.2 Rumusan Masalah 1](#_Toc227829267)
-
-[1.3 Tujuan 2](#_Toc227829268)
-
-[BAB II PEMBAHASAN 3](#_Toc227829269)
-
-[2.1 Pengertian Generatif AI 3](#_Toc227829270)
-
-[2.2 Infrastruktur AI dan Konsumsi Energi 3](#_Toc227829271)
-
-[2.3 Dampak Lingkungan Generative AI 4](#_Toc227829272)
-
-[2.4 Analisis Etika terhadap Pengembangan Generative AI 4](#_Toc227829273)
-
-[2.5 Studi Kasus dan Upaya Mitigasi 6](#_Toc227829274)
-
-[2.6 Trade-off Inovasi AI dan Komitmen Net-Zero 7](#_Toc227829275)
-
-[BAB III PENUTUP 8](#_Toc227829276)
-
-[3.1 Kesimpulan 8](#_Toc227829277)
-
-[3.2 Saran 8](#_Toc227829278)
-
-[DAFTAR PUSTAKA 9](#_Toc227829279)
+4. [DAFTAR PUSTAKA](#daftar-pustaka)
 
 #
 
