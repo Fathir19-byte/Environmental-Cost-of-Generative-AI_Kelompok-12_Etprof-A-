@@ -74,9 +74,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 # BAB I
 
-PENDAHULUAN
+## PENDAHULUAN
 
-## 1.1 Latar Belakang
+### 1.1 Latar Belakang
 
 Perkembangan teknologi kecerdasan buatan, khususnya Generative AI, telah mengalami peningkatan yang sangat pesat dalam beberapa tahun terakhir. Berbagai perusahaan teknologi besar seperti OpenAI, Microsoft, dan Google berlomba-lomba mengembangkan sistem AI canggih yang mampu menghasilkan teks, gambar, hingga kode program secara otomatis. Inovasi ini membawa banyak manfaat dalam berbagai bidang, mulai dari pendidikan, bisnis, hingga industri kreatif.
 
@@ -86,7 +86,7 @@ Beberapa laporan menunjukkan bahwa sejak meningkatnya penggunaan AI, emisi karbo
 
 Dari sudut pandang etika profesi, fenomena ini menimbulkan dilema antara dorongan untuk terus berinovasi di bidang teknologi dengan tanggung jawab moral untuk menjaga kelestarian lingkungan. Perusahaan teknologi tidak hanya dituntut untuk menghasilkan produk yang canggih dan menguntungkan, tetapi juga harus mempertimbangkan dampak jangka panjang terhadap lingkungan dan masyarakat. Oleh karena itu, penting untuk mengkaji lebih dalam mengenai biaya lingkungan dari pengembangan Generative AI serta menilai apakah praktik yang dilakukan saat ini sudah sesuai dengan prinsip-prinsip etika profesi.
 
-## 1.2 Rumusan Masalah
+### 1.2 Rumusan Masalah
 
 Berdasarkan latar belakang yang telah diuraikan, maka rumusan masalah dalam makalah ini adalah sebagai berikut:
 
@@ -95,7 +95,7 @@ Berdasarkan latar belakang yang telah diuraikan, maka rumusan masalah dalam maka
 - Bagaimana tanggung jawab perusahaan teknologi terhadap dampak lingkungan yang dihasilkan dari pengembangan AI?
 - Apakah pengembangan Generative AI saat ini sudah sesuai dengan prinsip-prinsip etika profesi, khususnya dalam aspek keberlanjutan lingkungan?
 
-## 1.3 Tujuan
+### 1.3 Tujuan
 
 Berdasarkan rumusan masalah yang telah disusun, maka tujuan penulisan makalah ini adalah sebagai berikut:
 
@@ -106,9 +106,9 @@ Berdasarkan rumusan masalah yang telah disusun, maka tujuan penulisan makalah in
 
 # BAB II
 
-# PEMBAHASAN
+## PEMBAHASAN
 
-## 2.1 Pengertian Generative AI
+### 2.1 Pengertian Generative AI
 
 _Generative AI_ merupakan salah satu cabang dari kecerdasan buatan yang dirancang untuk menghasilkan konten baru berdasarkan data yang telah dipelajari sebelumnya. Teknologi ini mampu menciptakan berbagai bentuk output, seperti teks, gambar, audio, hingga kode program, dengan tingkat kemiripan yang tinggi terhadap hasil buatan manusia.
 
@@ -118,7 +118,7 @@ Secara umum, _Generative AI_ bekerja menggunakan model pembelajaran mesin berska
 
 ---
 
-## 2.2 Infrastruktur AI dan Konsumsi Energi
+### 2.2 Infrastruktur AI dan Konsumsi Energi
 
 Pengembangan dan pengoperasian _Generative AI_ tidak terlepas dari infrastruktur teknologi yang dikenal sebagai _data center_. _Data center_ merupakan fasilitas yang digunakan untuk menyimpan, mengelola, dan memproses data dalam skala besar. Dalam konteks AI, _data center_ berperan penting dalam proses pelatihan model maupun saat model tersebut digunakan oleh pengguna.
 
@@ -126,15 +126,15 @@ _Data center_ modern terdiri dari ribuan server yang beroperasi secara terus-men
 
 Seiring dengan meningkatnya penggunaan _Generative AI_, kebutuhan terhadap kapasitas _data center_ juga semakin meningkat. Hal ini berdampak langsung pada peningkatan konsumsi energi global yang sebagian besar masih berasal dari sumber energi tidak terbarukan. Kondisi tersebut berkontribusi terhadap peningkatan emisi karbon serta memperburuk dampak perubahan iklim.
 
-## 2.3 Dampak Lingkungan Generative AI
+### 2.3 Dampak Lingkungan Generative AI
 
 Meningkatnya kebutuhan infrastruktur dan beban kerja pemrosesan di model AI menyebabkan kerusakan lingkungan yang berbahaya. Contoh penyebabnya seperti krisis air bersih, menumpuknya limbah elektronik, dan meningkatnya emisi karbon. Kebutuhan sumber daya listrik yang sangat besar dari _data center_ yang mayoritas sumbernya masih kebergantungan di pembangkit berbahan bakar fosil menjadi penyebab meningkatnya emisi karbon yang cukup tinggi, di mana untuk pelatihan satu model AI saja bisa menghasilkan emisi setara dengan beberapa mobil untuk seumur hidup mobil tersebut. Selain itu, sistem pendingin pada _data center_ memerlukan jutaan liter air tawar supaya server tidak terjadi _overheat_ yang beresiko memperparah krisis air bersih jika fasilitasnya dibangun di daerah rawan kekeringan. Karena dituntutnya inovasi yang cepat, ini memaksa semua perusahaan untuk terus memperbarui perangkat keras sehingga memperpendek siklus hidup perangkat keras dan mempercepat penumpukan limbah elektronik yang mengandung bahan racun.
 
-## 2.4 Analisi Etika terhadap Pengembangan Generative AI
+### 2.4 Analisi Etika terhadap Pengembangan Generative AI
 
 Secara perspektif etika profesi, kemajuan AI memunculkan dilema moral diantara inovasi teknologi yang mempermudah manusia dan pelestarian lingkungan. Jika dilihat dari sisi manfaatnya, AI memberikan efisiensi yang sangat besar bagi peradaban manusia saat ini. Tapi dampak buruknya kepada iklim bumi lebih berpotensi menciptakan kerugian massal secara jangka panjang yang bisa menghilangkan nilai dari manfaat AI tersebut. Secara etis, perusahaan teknologi memiliki kewajiban moral untuk menepati komitmen _net-zero emission_ yang telah mereka tetapkan, yang artinya, mereka telah mengorbakan janji tersebut demi memenangkan perlombaan bisnis AI adalah bentuk pelanggaran etika. Lalu, jika dilihat dengan pendekatan _Triple Bottom Line_ juga memberitahu bahwa praktik AI saat ini belum sepenuhnya etis karena terlalu berat sebelah pada pencapaian keuntungan finansial dan kenyamanan pengguna, tapi masih mengabaikan daya dukung untuk kelestarian bumi.
 
-## 2.5 Studi Kasus dan Upaya Mitigasi
+### 2.5 Studi Kasus dan Upaya Mitigasi
 
 Perkembangan Generative AI yang pesat tidak terlepas dari peran perusahaan teknologi besar seperti Microsoft dan Google. Namun, peningkatan penggunaan AI juga diikuti oleh meningkatnya dampak lingkungan yang dihasilkan. Microsoft dilaporkan mengalami peningkatan emisi karbon sekitar 30% sejak berkembangnya teknologi AI, sementara Google melaporkan peningkatan emisi hingga 48% dibandingkan tahun 2019.
 
@@ -144,20 +144,20 @@ Kondisi tersebut mencerminkan adanya dilema antara dorongan untuk terus berinova
 
 Upaya Mitigasi Dampak Lingkungan:
 
-- **Penggunaan Energi Terbarukan  
-   **Perusahaan teknologi dapat beralih ke sumber energi terbarukan seperti tenaga surya dan angin untuk mengurangi emisi karbon dari operasional data center.
-- **Pengembangan Green AI  
-   **Mengembangkan model AI yang lebih efisien dalam penggunaan energi, seperti mengoptimalkan algoritma dan mengurangi kompleksitas model tanpa mengorbankan performa.
-- **Efisiensi Data Center  
-   **Meningkatkan efisiensi infrastruktur dengan menggunakan sistem pendinginan yang lebih hemat energi serta memanfaatkan teknologi ramah lingkungan.
-- **Pengelolaan Konsumsi Air  
-   **Mengurangi penggunaan air dalam proses pendinginan dan menerapkan sistem daur ulang air untuk menjaga ketersediaan sumber daya air.
-- **Transparansi dan Pelaporan  
-   **Perusahaan perlu secara terbuka melaporkan dampak lingkungan yang dihasilkan, seperti emisi karbon dan konsumsi energi, agar dapat diawasi oleh publik.
-- **Kepatuhan terhadap Regulasi  
-   **Mengikuti kebijakan dan standar pemerintah terkait lingkungan, seperti pembatasan emisi dan penggunaan energi bersih.
+- **Penggunaan Energi Terbarukan** 
+  Perusahaan teknologi dapat beralih ke sumber energi terbarukan seperti tenaga surya dan angin untuk mengurangi emisi karbon dari operasional data center.
+- **Pengembangan Green AI** 
+  Mengembangkan model AI yang lebih efisien dalam penggunaan energi, seperti mengoptimalkan algoritma dan mengurangi kompleksitas model tanpa mengorbankan performa.
+- **Efisiensi Data Center**
+  Meningkatkan efisiensi infrastruktur dengan menggunakan sistem pendinginan yang lebih hemat energi serta memanfaatkan teknologi ramah lingkungan.
+- **Pengelolaan Konsumsi Air**
+  Mengurangi penggunaan air dalam proses pendinginan dan menerapkan sistem daur ulang air untuk menjaga ketersediaan sumber daya air.
+- **Transparansi dan Pelaporan**
+  Perusahaan perlu secara terbuka melaporkan dampak lingkungan yang dihasilkan, seperti emisi karbon dan konsumsi energi, agar dapat diawasi oleh publik.
+- **Kepatuhan terhadap Regulasi**
+  Mengikuti kebijakan dan standar pemerintah terkait lingkungan, seperti pembatasan emisi dan penggunaan energi bersih.
 
-## 2.6 Trade-off Inovasi AI dan Komitmen Net-Zero
+### 2.6 Trade-off Inovasi AI dan Komitmen Net-Zero
 
 Perkembangan Generative AI yang sangat pesat membawa dilema antara inovasi teknologi dan keberlanjutan lingkungan. Di satu sisi, perusahaan teknologi seperti Microsoft dan Google terus mendorong pengembangan AI untuk meningkatkan efisiensi, produktivitas, dan keuntungan bisnis. Namun, di sisi lain, peningkatan kebutuhan komputasi untuk AI menyebabkan konsumsi energi dan emisi karbon yang semakin tinggi.
 
