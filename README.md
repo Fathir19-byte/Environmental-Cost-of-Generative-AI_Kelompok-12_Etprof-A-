@@ -64,7 +64,11 @@ Adi Wahyu Pribadi, S.Si., M.Kom
    - [3.2 Saran](#32-saran)
 
 4. [DAFTAR PUSTAKA](#daftar-pustaka)
-5. [![Youtube Video]()](https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8)
+<p align="center">
+  <a href="https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8">
+    <img src="EnvironmentalCostOfGeneratifAi.jpg" alt="Environmental Cost of Generatif Ai " width="600">
+  </a>
+</p>
 
 ---
 
