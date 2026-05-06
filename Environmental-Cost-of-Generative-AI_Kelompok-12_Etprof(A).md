@@ -70,6 +70,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 [DAFTAR PUSTAKA 9](#_Toc227829279)
 
+[![Youtube Video]()](https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8)
+
+
 #
 
 # BAB I
