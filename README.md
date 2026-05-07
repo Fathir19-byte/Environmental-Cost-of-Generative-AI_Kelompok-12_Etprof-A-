@@ -64,11 +64,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
    - [3.2 Saran](#32-saran)
 
 4. [DAFTAR PUSTAKA](#daftar-pustaka)
-<p align="center">
-  <a href="https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8">
-    <img src="EnvironmentalCostOfGeneratifAi.jpg" alt="Environmental Cost of Generatif Ai " width="600">
-  </a>
-</p>
 
 ---
 
@@ -227,3 +222,19 @@ Pengguna diharapkan menggunakan teknologi AI secara bijak dan tidak berlebihan, 
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). *Energy and Policy Considerations for Deep Learning in NLP*. Nature Climate Change, 10(1), 1–6.  
 - Hao, K. (2019). *Training a Single AI Model Can Emit as Much Carbon as Five Cars in Their Lifetimes*. MIT Technology Review.  
 - International Energy Agency. (2023). *Data Centres and Data Transmission Networks*. IEA.  
+
+---
+
+### 🎥 Presentasi Proyek
+
+<div align="center">
+	<a href="https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8" target="_blank">
+	  <img src="EnvironmentalCostOfGenerativeAi.png" 
+	       alt="Video Presentasi Environmental Cost of Generative AI" 
+	       width="600"/>
+	</a>
+</div>
+
+### 📎 Lampiran Proyek
+
+> **Link Presentasi:** [Akses Slide PPT di Canva](https://canva.link/wpsxapkqddbm5g9)
