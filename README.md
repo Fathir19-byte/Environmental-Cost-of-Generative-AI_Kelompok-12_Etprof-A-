@@ -238,3 +238,5 @@ Pengguna diharapkan menggunakan teknologi AI secara bijak dan tidak berlebihan, 
 ### 📎 Lampiran Proyek
 
 > **Link Presentasi:** [Akses Slide PPT di Canva](https://canva.link/wpsxapkqddbm5g9)
+
+[![Watch the video](https://img.youtube.com/vi/OrFEo8JkKsUmR-GZ/0.jpg)](https://youtu.be/NaXmhF5gvZksi=OrFEo8JkKsUmR-GZ)
