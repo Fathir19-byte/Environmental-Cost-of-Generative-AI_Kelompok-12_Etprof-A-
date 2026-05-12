@@ -228,7 +228,7 @@ Pengguna diharapkan menggunakan teknologi AI secara bijak dan tidak berlebihan, 
 ### 🎥 Presentasi Proyek
 
 <div align="center">
-	<a href="https://youtu.be/32zoKaL2Td0?si=Zas-jrecgC9cdyw8" target="_blank">
+	<a href="https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ" target="_blank">
 	  <img src="EnvironmentalCostOfGenerativeAi.png" 
 	       alt="Video Presentasi Environmental Cost of Generative AI" 
 	       width="600"/>
