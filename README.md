@@ -3,7 +3,7 @@
 
 ---
 
-### 📌 HEADER PEMETAAN SUB-CPMK
+### HEADER PEMETAAN SUB-CPMK
 
 | Informasi Kelompok | Detail Pemetaan |
 | :--- | :--- |
@@ -13,7 +13,7 @@
 | **Daftar Sub-CPMK** | Sub-CPMK 1 (Kronologi & Etika), Sub-CPMK 2 (Regulasi & Kode Etik), Sub-CPMK 3 (Stakeholder & Kontrol), Sub-CPMK 4 (Manajemen Risiko), Sub-CPMK 5 (Integritas & Anti-Korupsi), Sub-CPMK 7 (Opsi 4T & Kontrol Preventif), Sub-CPMK 8 (Demonstrasi/Video), Sub-CPMK 9 (Refleksi Karier) |
 | **Tautan Presentasi** | [🎥 Video Presentasi Kelompok 12 di YouTube (Unlisted)](https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ) |
 
-#### 👥 Pembagian Peran & Tanggung Jawab Anggota Kelompok:
+#### Pembagian Peran & Tanggung Jawab Anggota Kelompok:
 
 | Nama Anggota | NIM | Peran Utama & Segmen Laporan |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎬 VIDEO PRESENTASI & LAMPIRAN PROYEK
+## VIDEO PRESENTASI & LAMPIRAN PROYEK
 * **Tautan Langsung Video YouTube:** [Akses Video Presentasi (Unlisted)](https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ)
 * **Tautan Slide Presentasi:** [Akses Slide PPT di Canva](https://canva.link/wpsxapkqddbm5g9)
 
