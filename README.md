@@ -62,13 +62,126 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 
 ## 3. Pemetaan Pemangku Kepentingan / Stakeholders (Sub-CPMK 3)
 
+Analisis pemangku kepentingan (*stakeholder analysis*) dilakukan untuk mengidentifikasi pihak-pihak yang terlibat maupun terdampak oleh perkembangan AI generatif, sekaligus memahami distribusi kepentingan, tingkat pengaruh (*power*), serta potensi konflik kepentingan yang muncul akibat meningkatnya kebutuhan infrastruktur komputasi AI.
+
+> [!NOTE]
+> **Tujuan Analisis Stakeholder**
+>
+> Pemetaan ini bertujuan untuk mengetahui siapa yang paling diuntungkan, siapa yang paling terdampak, serta bagaimana hubungan antar pemangku kepentingan dalam pengembangan AI generatif.
+
+### Diagram Hubungan Pemangku Kepentingan
+
+```mermaid
+graph TD
+    A["Raksasa Teknologi (Google, Microsoft, OpenAI)"] -->|Mengembangkan AI & Mengambil Keputusan| B["Konsumen / Pengguna AI"]
+    A -->|Konsumsi Energi & Air Skala Besar| C["Masyarakat Lokal"]
+    A -->|Emisi Karbon & Pemanasan Global| D["Lingkungan Hidup & Generasi Mendatang"]
+    E["Regulator & Pemerintah"] -->|Regulasi & Perizinan| A
+    C -->|Aspirasi & Tuntutan| E
+```
+
+### Matriks Pemangku Kepentingan
+
+| Stakeholder | Kepentingan | Tingkat Pengaruh | Dampak yang Diterima |
+|--------------|-------------|:---------------:|----------------------|
+| **Google, Microsoft, OpenAI** | Mengembangkan AI, meningkatkan keuntungan, mempertahankan daya saing | 🟢 Sangat Tinggi | Memperoleh keuntungan ekonomi, namun mendapat tekanan regulasi dan tuntutan keberlanjutan |
+| **Konsumen / Pengguna AI** | Memanfaatkan layanan AI yang cepat, mudah, dan inovatif | 🟡 Sedang | Mendapat manfaat teknologi, namun secara tidak langsung meningkatkan permintaan komputasi AI |
+| **Masyarakat Lokal** | Menjaga ketersediaan air, listrik, dan kualitas lingkungan | 🔴 Rendah | Berpotensi mengalami kekurangan air, peningkatan suhu, dan tekanan terhadap infrastruktur |
+| **Regulator & Pemerintah** | Menjaga keseimbangan investasi digital dan perlindungan lingkungan | 🟢 Tinggi | Menyusun regulasi, melakukan pengawasan, dan memastikan kepatuhan perusahaan |
+| **Lingkungan Hidup & Generasi Mendatang** | Menjaga kelestarian ekosistem dan stabilitas iklim | ⚪ Sangat Rendah | Menanggung dampak perubahan iklim, kerusakan lingkungan, dan berkurangnya sumber daya alam |
+
+### Analisis Konflik Kepentingan
+
+Konflik kepentingan utama terjadi antara perusahaan teknologi yang berupaya memperluas kapasitas AI demi mempertahankan daya saing bisnis dengan masyarakat lokal yang membutuhkan akses terhadap sumber daya air dan listrik yang memadai. Di sisi lain, pemerintah menghadapi dilema antara mendorong investasi digital dan memenuhi target pengurangan emisi karbon. Sementara itu, lingkungan hidup dan generasi mendatang menjadi pihak yang menerima dampak terbesar, meskipun tidak memiliki kekuatan untuk memengaruhi keputusan yang diambil.
+
+### Power–Interest Matrix
+
+| | **Kepentingan Rendah** | **Kepentingan Tinggi** |
+|---|---|---|
+| **Pengaruh Tinggi** | **Regulator & Pemerintah** | **Google, Microsoft, OpenAI** |
+| **Pengaruh Rendah** | **Lingkungan Hidup & Generasi Mendatang** | **Masyarakat Lokal & Pengguna AI** |
+
+> [!TIP]
+> Berdasarkan matriks di atas, perusahaan teknologi memiliki pengaruh paling besar terhadap arah pengembangan AI, sedangkan masyarakat lokal dan lingkungan hidup merupakan pihak yang paling terdampak namun memiliki daya tawar yang relatif rendah.
+
+### Kesimpulan
+
+Pemetaan stakeholder menunjukkan bahwa manfaat ekonomi dan teknologi dari AI generatif belum sepenuhnya diimbangi dengan distribusi risiko yang adil. Oleh karena itu, diperlukan kolaborasi antara perusahaan teknologi, pemerintah, masyarakat, dan komunitas internasional untuk memastikan pengembangan AI berlangsung secara bertanggung jawab dan berkelanjutan.
+
 <!-- TODO: Silakan Belvaria Hendriyani isi bagian Pemetaan Pemangku Kepentingan di sini -->
 
 ---
 
 ## 4. Analisis Empat Teori Etika (Sub-CPMK 1)
 
-<!-- TODO: Silakan Belvaria Hendriyani isi bagian Analisis Empat Teori Etika di sini -->
+Analisis etika dilakukan untuk mengevaluasi apakah praktik pengembangan AI generatif yang berdampak terhadap lingkungan dapat dibenarkan secara moral. Empat teori etika digunakan sebagai dasar analisis, yaitu Utilitarianisme, Deontologi, Etika Kebajikan (*Virtue Ethics*), dan Etika Hak (*Rights/Contractarian Ethics*).
+
+---
+
+## A. Utilitarianisme
+
+Utilitarianisme menilai suatu tindakan berdasarkan manfaat terbesar bagi jumlah orang terbanyak (*the greatest good for the greatest number*).
+
+### Penerapan pada Kasus
+
+AI generatif memberikan berbagai manfaat, seperti meningkatkan produktivitas, mempercepat penelitian, serta mendukung inovasi di berbagai sektor. Namun, manfaat tersebut diiringi dengan meningkatnya konsumsi energi listrik, penggunaan air untuk pendinginan data center, serta emisi gas rumah kaca yang berdampak pada perubahan iklim. Apabila kerugian lingkungan dalam jangka panjang lebih besar daripada manfaat yang diperoleh saat ini, maka praktik pengembangan AI yang tidak memperhatikan efisiensi energi **belum dapat dianggap etis** menurut perspektif utilitarianisme.
+
+---
+
+## B. Deontologi
+
+Deontologi menekankan bahwa tindakan dinilai berdasarkan kewajiban moral, bukan hanya hasil akhirnya.
+
+### Penerapan pada Kasus
+
+Perusahaan teknologi memiliki kewajiban moral untuk menjalankan aktivitas bisnis tanpa merusak lingkungan maupun mengorbankan hak masyarakat. Ketika pembangunan data center meningkatkan konsumsi air dan emisi karbon secara signifikan, perusahaan dinilai belum memenuhi kewajiban moral tersebut. Oleh karena itu, praktik ini **tidak etis** karena bertentangan dengan prinsip moral universal.
+
+---
+
+## C. Etika Kebajikan (*Virtue Ethics*)
+
+Etika Kebajikan menilai tindakan berdasarkan karakter moral seperti tanggung jawab, integritas, kepedulian, dan kebijaksanaan.
+
+### Penerapan pada Kasus
+
+Perusahaan yang beretika seharusnya tidak hanya mengejar inovasi dan keuntungan, tetapi juga menunjukkan tanggung jawab terhadap dampak lingkungan. Perlombaan pengembangan AI yang mengabaikan peningkatan emisi karbon menunjukkan belum optimalnya penerapan nilai tanggung jawab dan keberlanjutan. Selain itu, praktik *greenwashing* juga mencerminkan kurangnya integritas organisasi.
+
+---
+
+## D. Etika Hak / Kontraktarian *(Rights / Contractarian Ethics)*
+
+Teori ini menyatakan bahwa tindakan yang etis harus menghormati hak dasar setiap individu serta memenuhi kontrak sosial dengan masyarakat.
+
+### Penerapan pada Kasus
+
+Masyarakat memiliki hak atas lingkungan yang sehat dan akses terhadap sumber daya alam yang memadai. Ketika aktivitas operasional data center meningkatkan emisi karbon maupun mengurangi ketersediaan air bersih, hak-hak tersebut berpotensi dilanggar. Oleh karena itu, perusahaan teknologi berkewajiban memastikan bahwa pengembangan AI tidak mengorbankan kepentingan masyarakat maupun generasi mendatang.
+
+---
+
+## Ringkasan Analisis Empat Teori Etika
+
+| Teori Etika | Penilaian | Alasan |
+|--------------|-----------|--------|
+| **Utilitarianisme** | ❌ Belum Etis | Dampak lingkungan jangka panjang berpotensi lebih besar daripada manfaat yang diperoleh saat ini. |
+| **Deontologi** | ❌ Belum Etis | Perusahaan belum sepenuhnya memenuhi kewajiban moral untuk menjaga lingkungan. |
+| **Etika Kebajikan** | ❌ Belum Etis | Belum mencerminkan tanggung jawab, integritas, dan kepedulian terhadap keberlanjutan. |
+| **Etika Hak / Kontraktarian** | ❌ Belum Etis | Berpotensi melanggar hak masyarakat atas lingkungan yang sehat dan sumber daya alam. |
+
+### Perbandingan Hasil Analisis
+
+| Teori | Fokus Penilaian | Hasil |
+|-------|------------------|-------|
+| Utilitarianisme | Manfaat terbesar bagi masyarakat | Dampak lingkungan lebih besar dibanding manfaat jangka panjang |
+| Deontologi | Kewajiban moral | Kewajiban menjaga lingkungan belum terpenuhi |
+| Virtue Ethics | Karakter dan integritas organisasi | Tanggung jawab dan kepedulian lingkungan belum optimal |
+| Rights Ethics | Perlindungan hak masyarakat | Hak atas lingkungan yang sehat berpotensi dilanggar |
+
+> [!IMPORTANT]
+> Meskipun memiliki sudut pandang yang berbeda, keempat teori etika menghasilkan kesimpulan yang serupa, yaitu bahwa pengembangan AI generatif harus disertai tanggung jawab lingkungan yang lebih besar agar manfaat teknologi tidak diperoleh dengan mengorbankan keberlanjutan bumi.
+
+### Kesimpulan
+
+Berdasarkan keempat teori etika, AI generatif memberikan manfaat yang signifikan bagi masyarakat. Namun, praktik pengembangannya saat ini masih menghadapi tantangan etis terkait konsumsi energi, emisi karbon, dan penggunaan sumber daya alam. Oleh karena itu, perusahaan teknologi perlu mengintegrasikan prinsip keberlanjutan ke dalam setiap tahap pengembangan AI agar inovasi yang dihasilkan tidak hanya unggul secara teknologi, tetapi juga bertanggung jawab secara moral, sosial, dan lingkungan.
 
 ---
 
