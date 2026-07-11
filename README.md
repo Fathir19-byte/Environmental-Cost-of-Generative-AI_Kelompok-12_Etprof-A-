@@ -193,15 +193,37 @@ Berdasarkan keempat teori etika, AI generatif memberikan manfaat yang signifikan
 
 ## 5. Lensa Kelima — Pancasila (Sub-CPMK 1)
 
-<!-- TODO: Silakan Putri Wahyu Dwi Nur Fatimah isi bagian Lensa Kelima - Pancasila di sini -->
+Sebagai mahasiswa Universitas Pancasila, kami menganalisis kasus ini dengan mengintegrasikan nilai luhur Pancasila dan Nilai Kepancasilaan UP:
+
+### A. Analisis Sila-Sila Pancasila
+* **Sila 1 (Ketuhanan Yang Maha Esa):** Tanggung jawab manusia untuk menjaga bumi sebagai ciptaan Tuhan. Eksploitasi energi fosil secara berlebih untuk AI merupakan wujud ketidakpedulian terhadap amanah ketuhanan ini.
+* **Sila 2 (Kemanusiaan yang Adil dan Beradab):** Kenaikan suhu bumi akibat emisi AI berdampak buruk bagi kelompok rentan yang tidak menikmati manfaat langsung AI. Hal ini bertentangan dengan keadilan kemanusiaan.
+* **Sila 3 (Persatuan Indonesia):** Krisis iklim adalah ancaman bersama yang menuntut solidaritas nasional dan internasional. Kita tidak boleh membiarkan kerusakan ekologis merusak stabilitas bangsa.
+* **Sila 4 (Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan...):** Pengambilan keputusan mengenai alokasi energi nasional dan perizinan data center harus didasarkan pada hikmat kebijaksanaan kolektif, bukan atas nama kepentingan korporasi semata.
+* **Sila 5 (Keadilan Sosial bagi Seluruh Rakyat Indonesia):** Akses air tawar dan energi bersih harus didistribusikan secara adil. Mengutamakan pasokan air untuk pendingin server AI di atas kebutuhan air bersih rakyat adalah bentuk ketidakdidilan sosial.
+
+### B. Integrasi Nilai Kepancasilaan Universitas Pancasila
+1. **Integritas:** Menyampaikan data emisi karbon apa adanya tanpa rekayasa akuntansi karbon (*greenwashing*).
+2. **Kepedulian:** Peduli terhadap ketersediaan air bersih bagi warga sekitar data center.
+3. **Harmonis:** Menjaga keseimbangan antara kemajuan teknologi digital dengan kelestarian alam hayati.
+4. **Kolaboratif:** Bekerja sama antara korporasi, pemerintah, dan akademisi untuk merancang teknologi ramah lingkungan (*Green AI*).
+5. **Profesionalisme:** Profesional IT wajib mengembangkan perangkat lunak yang efisien dalam konsumsi daya (*energy-efficient computing*).
 
 ---
 
 ## 6. Kode Etik Profesi (Sub-CPMK 1, 2)
 
-<!-- TODO: Silakan Putri Wahyu Dwi Nur Fatimah isi bagian Kode Etik Profesi di sini -->
+Dilema lingkungan Generative AI bersinggungan langsung dengan kode etik profesi teknologi informasi tingkat internasional dan nasional:
 
----
+### A. ACM Code of Ethics (Association for Computing Machinery)
+* **Pasal 1.2 (Avoid Harm):** Pengembang wajib meminimalkan dampak buruk dari sistem komputasi terhadap manusia dan lingkungan. Mengabaikan efisiensi energi model AI secara sadar melanggar pasal ini.
+* **Pasal 2.7 (Foster Public Awareness and Understanding of Computing):** Profesional komputasi harus bersikap jujur dan transparan kepada publik mengenai dampak lingkungan dari teknologi yang mereka kembangkan, bukan menutup-nutupinya dengan istilah pemasaran.
+
+### B. IEEE Code of Ethics
+* **Pasal 1.1 (Hold Paramount the Safety, Health, and Welfare of the Public...):** Menyatakan kewajiban mutlak untuk melindungi keselamatan, kesehatan, dan kesejahteraan masyarakat serta lingkungan hidup, dan segera melaporkan faktor-faktor yang dapat membahayakan lingkungan.
+
+### C. Kode Etik PII (Persatuan Insinyur Indonesia) - Sapta Dharma
+* **Sikap Ke-1 (Catur Karsa & Sapta Dharma):** Mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat serta **kelestarian lingkungan hidup** dalam setiap keputusan rekayasa (*engineering*).
 
 ## 7. Analisis Regulasi & Hukum (Sub-CPMK 2)
 
