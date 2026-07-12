@@ -37,8 +37,6 @@
 
 ---
 
-# SEBELAS KOMPONEN WAJIB LAPORAN INVESTIGASI
-
 ## 1. Kronologi & Konteks (Sub-CPMK 1)
 
 Perkembangan Generative AI (Kecerdasan Buatan Generatif) sejak akhir tahun 2022 hingga 2025 telah memicu revolusi digital global sekaligus krisis ekologis digital baru. Berikut adalah rangkaian peristiwa penting yang melatarbelakangi investigasi ini:
