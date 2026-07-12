@@ -8,8 +8,8 @@
 | Informasi Kelompok | Detail Pemetaan |
 | :--- | :--- |
 | **Kelompok / Kelas** | Kelompok 12 / Kelas A |
-| **Mata Kuliah** | Etika Profesi (PBL) |
-| **Kasus** | Klaster E - Kasus 12: Jejak Lingkungan AI Generatif (2023–2025) |
+| **Mata Kuliah** | Etika Profesi |
+| **Kasus** | Kasus 12: Jejak Lingkungan AI Generatif (2023–2025) |
 | **Daftar Sub-CPMK** | Sub-CPMK 1 (Kronologi & Etika), Sub-CPMK 2 (Regulasi & Kode Etik), Sub-CPMK 3 (Stakeholder & Kontrol), Sub-CPMK 4 (Manajemen Risiko), Sub-CPMK 5 (Integritas & Anti-Korupsi), Sub-CPMK 7 (Opsi 4T & Kontrol Preventif), Sub-CPMK 8 (Demonstrasi/Video), Sub-CPMK 9 (Refleksi Karier) |
 | **Tautan Presentasi** | [🎥 Video Presentasi Kelompok 12 di YouTube (Unlisted)](https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ) |
 
